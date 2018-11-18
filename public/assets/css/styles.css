@@ -1,0 +1,21 @@
+body{
+    font-family: 'Open Sans';
+}
+
+.wrapper{
+    width: 800px;
+    margin:auto;
+    border:1px solid red;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.flex{
+    display:flex;
+    justify-content: space-around;
+}
+
