@@ -1,5 +1,5 @@
 -- In this file, write insert queries to populate the `burgers` table with at least three entries.
--- DROP DATABASE IF EXISTS `burgers_db`;
+DROP DATABASE IF EXISTS `burgers_db`;
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
